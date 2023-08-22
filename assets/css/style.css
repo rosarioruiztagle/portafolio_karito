@@ -1,0 +1,22 @@
+#portada {
+    background-image: url("../img/tenedor.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 120px;
+   }
+
+#experiencia {
+    background-image: url(../img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding: 130px;
+}
+
+#educacion {
+    background-image: url(../img/fondo.png);
+    background-size: cover;
+    background-position: center;
+    padding:200px;
+}
